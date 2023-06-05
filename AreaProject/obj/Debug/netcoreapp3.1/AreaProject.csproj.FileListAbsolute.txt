@@ -1,0 +1,10 @@
+C:\Users\Ilya\source\repos\TestProject\AreaProject\bin\Debug\netcoreapp3.1\AreaProject.deps.json
+C:\Users\Ilya\source\repos\TestProject\AreaProject\bin\Debug\netcoreapp3.1\AreaProject.dll
+C:\Users\Ilya\source\repos\TestProject\AreaProject\bin\Debug\netcoreapp3.1\AreaProject.pdb
+C:\Users\Ilya\source\repos\TestProject\AreaProject\obj\Debug\netcoreapp3.1\AreaProject.csproj.AssemblyReference.cache
+C:\Users\Ilya\source\repos\TestProject\AreaProject\obj\Debug\netcoreapp3.1\AreaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\source\repos\TestProject\AreaProject\obj\Debug\netcoreapp3.1\AreaProject.AssemblyInfoInputs.cache
+C:\Users\Ilya\source\repos\TestProject\AreaProject\obj\Debug\netcoreapp3.1\AreaProject.AssemblyInfo.cs
+C:\Users\Ilya\source\repos\TestProject\AreaProject\obj\Debug\netcoreapp3.1\AreaProject.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\TestProject\AreaProject\obj\Debug\netcoreapp3.1\AreaProject.dll
+C:\Users\Ilya\source\repos\TestProject\AreaProject\obj\Debug\netcoreapp3.1\AreaProject.pdb
